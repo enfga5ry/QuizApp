@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Add BreakLine",
+    "answer_3": "To Add HorizontalLine",
+    "answer_4": "To Make Text Italic",
+    "right_answer": "To Add BreakLine"
+  },
+  {
+    "title": "Is <img> Element Has Attribute href",
+    "answer_1": "Yes",
+    "answer_2": "All Element Has This Attribute",
+    "answer_3": "Answer 1 And 4 Is Right",
+    "answer_4": "No",
+    "right_answer": "No"
+  },
+  {
+    "title": "Why We Use <a> Element",
+    "answer_1": "To Add img",
+    "answer_2": "to Add BreakLine",
+    "answer_3": "To Add A Link To My Page",
+    "answer_4": "To Make Text Italic",
+    "right_answer": "To Add A Link To My Page"
+  },
+  {
+    "title": "How Can We Make Element Text Bold",
+    "answer_1": "Putting It In <strong> Tag",
+    "answer_2": "Putting It Inside <b> Tag",
+    "answer_3": "Using Font-Weight Property In CSS",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "How Can We center A Div",
+    "answer_1": "All Answers Is Right",
+    "answer_2": "Using flex",
+    "answer_3": "Using Grid",
+    "answer_4": "Using transform property",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What are some most used Git Commands and functions",
+    "answer_1": "Git Add",
+    "answer_2": "Git End",
+    "answer_3": "Git Pull",
+    "answer_4": "Answer 1 And 3 Is Right",
+    "right_answer": "Answer 1 And 3 Is Right"
+  },
+  {
+    "title": "Which tag is used to create a check box",
+    "answer_1": "<checkbox>",
+    "answer_2": "<Input type='checkbox'>",
+    "answer_3": "<type='checkbox'",
+    "answer_4": "None of the above",
+    "right_answer": "<Input type='checkbox'>"
+  },
+  {
+    "title": "HTML stand for",
+    "answer_1": "Hypermark Language",
+    "answer_2": "Hypertext Markup Language",
+    "answer_3": "Hypermix language",
+    "answer_4": "Hypertest Mode Language",
+    "right_answer": "Hypertext Markup Language"
+  },
+  {
+    "title": "Which attribute set the text direction",
+    "answer_1": "dir",
+    "answer_2": "lang",
+    "answer_3": "direction",
+    "answer_4": "sub",
+    "right_answer": "direction"
+  },
+  {
+    "title": "Why We Use <hr> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "to Add BreakLine",
+    "answer_3": "To Add HorizontalLine",
+    "answer_4": "To Make Text Italic",
+    "right_answer": "To Add HorizontalLine"
+  }
+]
